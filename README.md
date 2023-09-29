@@ -1,5 +1,5 @@
-### Olá! Seja bem-vindo(a) 👋🏽
-<br>
+# Olá! Seja bem-vindo(a) 👋🏽
+
 Me chamo Gabriel Aguiar, tenho 24 anos e moro em Barueri-SP.
 
 - 💼 Atualmente estou a procura de um estágio.
@@ -7,8 +7,8 @@ Me chamo Gabriel Aguiar, tenho 24 anos e moro em Barueri-SP.
 
 <div>
   <a href="https://github.com/gabrielaguiar1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielaguiar1&show_icons=true&theme=merko"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaguiar1&theme=merko&layout=compact"/>
+  <img width="410px" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielaguiar1&show_icons=true&theme=merko&PAT_1">
+  <img width="370px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaguiar1&hide_progress=true&theme=merko&PAT_1">
 </div>
 
 <div style="display: inline_block"><br>
