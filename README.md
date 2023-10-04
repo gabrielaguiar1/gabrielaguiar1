@@ -13,16 +13,12 @@ Me chamo Gabriel Aguiar, tenho 24 anos e moro em Barueri-SP.
 
 ### 📊 GitHub Stats:
 
-<div>
   <a href="https://github.com/gabrielaguiar1">
   <img width="410px" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielaguiar1&show_icons=true&theme=merko&PAT_1">
   <img width="370px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaguiar1&hide_progress=true&theme=merko&PAT_1">
-</div>
 
 ### 💻 Tecnologias:
 
-<div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
