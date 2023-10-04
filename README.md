@@ -6,7 +6,7 @@ Me chamo Gabriel Aguiar, tenho 24 anos e moro em Barueri-SP.
 - 📘 Estou cursando o 4º semestre de Sistemas de Informação e também estudo Desenvolvimento Front-End.
 
 
-### 🌐 Socials:
+### 🌐 Redes Sociais:
 
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gabriel99___/) 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielaguiaroliveira/)
@@ -19,7 +19,7 @@ Me chamo Gabriel Aguiar, tenho 24 anos e moro em Barueri-SP.
   <img width="370px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaguiar1&hide_progress=true&theme=merko&PAT_1">
 </div>
 
-### 💻 Tech Stack:
+### 💻 Tecnologias:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
