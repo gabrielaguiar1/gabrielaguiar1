@@ -1,6 +1,6 @@
 ## Olá! Seja bem-vindo(a) 👋🏽
 
-Me chamo Gabriel Aguiar, tenho 24 anos e moro em Barueri-SP.
+Me chamo Gabriel Aguiar, tenho 25 anos e moro em Barueri-SP.
 
 - 💼 Atualmente estou a procura de um estágio.
 - 📘 Estou cursando o 7º semestre de Sistemas de Informação e também estudo Desenvolvimento Back-End.
