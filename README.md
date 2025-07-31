@@ -3,7 +3,7 @@
 Me chamo Gabriel Aguiar, tenho 25 anos e moro em Barueri-SP.
 
 - 💼 Atualmente estou a procura de um estágio.
-- 📘 Estou cursando o 7º semestre de Sistemas de Informação e também estudo Desenvolvimento Back-End.
+- 📘 Estou cursando o 8º semestre de Sistemas de Informação e também estudo Desenvolvimento Back-End.
 
 
 ### 🌐 Redes Sociais:
